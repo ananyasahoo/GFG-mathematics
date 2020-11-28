@@ -1,0 +1,7 @@
+double cToF(int C)
+{
+  
+    double fahrenheit;
+    fahrenheit = (C* 9/5 )+32;
+    return fahrenheit;
+}
